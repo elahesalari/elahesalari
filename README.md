@@ -7,16 +7,17 @@ I'm an AI researcher with a Master’s degree in **Artificial Intelligence**, sp
 
 I’m passionate about:
 - 🖼 **Generative AI, Diffusion models** 
-- 🤖 **Image Segmentation, Classification, Object Detction**  
-- 🛰 **Remote Sensing Image Analysis**  
-- 📚 **Industrial Inspection, Anomaly Detection**
+- 🤖 **Image Segmentation, Classification, Object Detction**   
+- 🏭 **Industrial Inspection, Anomaly Detection**
+- 🧬 **Biomedical Image Processing**
+- 🛰 **Remote Sensing Data Analysis** 
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python  
+- **Programming Language:** Python  
 - **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras  
-- **Machine Learning:** NumPy, Pandas, Scikit-learn  
+- **Machine Learning Tools:** NumPy, Pandas, Scikit-learn  
 - **Image Processing:** OpenCV, Scikit-image, Pillow, Open3D
 
 ---
