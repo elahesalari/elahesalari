@@ -1,7 +1,9 @@
 # 💡 About Me
 
-This is **Elahe Salari**.
-</br>
+<p align="center">
+  <b>This is **Elahe Salari**</b>
+</p>
+
 I'm an AI researcher with a Master’s degree in **Artificial Intelligence**, specializing in **Computer Vision**, **Generative AI**, and **Deep Learning**.  
 
 
